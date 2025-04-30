@@ -9,8 +9,8 @@ I'm a Computer Engineering student at McMaster University, passionate about buil
 - 🗺️ A custom mapping application to help dentists acquire clinics 
 
 ### 🛠️ Tech Stack
-`C` | `C++` | `Python` | `Java` | `JavaScript` | `React Native` | `Firebase`  
-`Keil uVision` | `VS Code` | `Git` | `Linux` | `MATLAB` | `VHDL` | `SQL`
+`C` | `C++` | `Python` | `Java` | `JavaScript` | `Swift` | `React Native` | `Firebase`  
+`Keil uVision` | `VS Code` | `Git` | `Linux` | `MATLAB` | `VHDL` | `SQL` 
 
 ### 📫 How to Reach Me
 - LinkedIn: www.linkedin.com/in/kasra-noyan-1b105421b
