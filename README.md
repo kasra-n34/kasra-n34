@@ -6,7 +6,15 @@ I'm a Computer Engineering student at McMaster University, passionate about buil
 - 📱 A social fitness app with gamified habit tracking
 - ⚙️ Embedded C++ projects using microcontrollers (MSP432, STM32)
 - 📊 A Python-based stock analysis bot using machine learning
-- 🗺️ A custom mapping application to help dentists acquire clinics 
+- 🗺️ A custom mapping application to help dentists acquire clinics
+
+### 🏫 Significant Academic Projects 
+- Software-defined radio (digital signal processing) involving use of Raspberry Pi
+- Verilog-based image decompression
+- Java-based poker game (user vs game AI)
+- Classic snake game with unique features in C++
+
+Note: some of these projects do not have their repository available to maintain the academic integrity of the project. Please contact me for more information regarding these projects.
 
 ### 🛠️ Tech Stack & Tools
 
